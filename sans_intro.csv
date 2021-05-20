@@ -1,7 +1,6 @@
 0,StopMusic,,,,,,,,
 0,Music,mus_zz_megalovania,,,,,,,
 0,SetMaxHP,150,,,,,,,
-0,GetPlayerMaxHp,58,,,
 0,SansAnimation,Stop,,,,,,,
 0,FightXY,1000,1000,,,,,,
 0,ItemXY,1000,1000,,,,,,
